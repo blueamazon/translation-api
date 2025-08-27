@@ -1,0 +1,11 @@
+[90m= [39m[34;4mApp\Models\User[39;24m {#6089
+    [34mname[39m: "[32mMr. Jerad Hoppe III[39m",
+    [34memail[39m: "[32maltenwerth.zula@example.net[39m",
+    [34memail_verified_at[39m: "[32m2025-08-27 15:03:33[39m",
+    #[33mpassword[39m: "[32m$2y$12$tSS8cQk02ZlyeqbgfZ49xO23QHhrwQ9v4hard1Blg3YDPC0D5wv1i[39m",
+    #[33mremember_token[39m: "[32mwmybJwlNKq[39m",
+    [34mupdated_at[39m: "[32m2025-08-27 15:03:34[39m",
+    [34mcreated_at[39m: "[32m2025-08-27 15:03:34[39m",
+    [34mid[39m: [35m3[39m,
+  }
+
