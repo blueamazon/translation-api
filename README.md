@@ -51,7 +51,7 @@ Follow these steps to get the API up and running locally.
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/translation-api.git
+git clone https://github.com/blueamazon/translation-api.git
 cd translation-api
 ```
 
