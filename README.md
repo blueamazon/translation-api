@@ -20,7 +20,6 @@ Perfect for teams needing a secure, fast, and maintainable translation backend w
 - ✅ **Fast export** (<500ms) using streamed JSON
 - ✅ **PSR-12 & SOLID** compliant
 - ✅ **No external CRUD or translation libraries**
-- ✅ **Test coverage ready** (unit & feature)
 
 ---
 
