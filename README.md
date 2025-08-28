@@ -25,7 +25,7 @@ Perfect for teams needing a secure, fast, and maintainable translation backend w
 
 ## 🛠️ Tech Stack
 
-- **Framework**: [Laravel 11+](https://laravel.com)
+- **Framework**: [Laravel 12+](https://laravel.com)
 - **Database**: MySQL 8.0
 - **Containerization**: Docker + Docker Compose
 - **API Docs**: OpenAPI 3.0 + Swagger UI (static)
@@ -91,6 +91,6 @@ docker-compose exec app php artisan migrate --seed
 
 ### Step 8: Access Services
 - **Laravel App** → [http://localhost:8080](http://localhost:8080)  
-- **phpMyAdmin** → [http://localhost:8081](http://localhost:8081)  
+- **phpMyAdmin** → [http://localhost:8081](http://localhost:8081)   ->u: sail p:password
 
 ---
